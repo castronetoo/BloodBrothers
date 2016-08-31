@@ -18,3 +18,4 @@ criar tabela de alerta de campanha com data de inicio e fim e mostrando onde vai
 
 criar tabela solicitante  
 
+criar tabela cidades 
